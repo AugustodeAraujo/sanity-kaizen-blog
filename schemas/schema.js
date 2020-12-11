@@ -91,19 +91,5 @@ export default createSchema({
         }
       ]
     },
-    {
-      name: 'Banner',
-      type: 'document',
-      title: 'Banner Kaizen',
-      
-      fields: [
-        {
-          name: 'title',
-          type: 'image',
-          title: 'Banner'
-        },
-      ]
-      
-    },
   ]),
 })
